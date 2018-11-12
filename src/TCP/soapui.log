@@ -1,0 +1,5 @@
+2018-11-12 07:33:23,411 WARN  [DefaultSoapUICore] Missing folder [C:\Users\Bruger\ext] for external libraries
+2018-11-12 07:33:23,551 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\Bruger\soapui-settings.xml]
+2018-11-12 07:33:23,790 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\Bruger\intellij-soapui-workspace.xml]
+2018-11-12 07:36:23,510 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\Bruger\intellij-soapui-workspace.xml]
+2018-11-12 07:36:23,514 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\Bruger\soapui-settings.xml]
